@@ -1,0 +1,30 @@
+.fruit {
+  color: blue;
+  background-color: black;
+  width: 50%;
+  text-shadow: 1px 1px 0px rgb(0, 174, 255);
+  padding: 10%;
+  display: flex;
+  display: grid;
+}
+
+.title {
+  text-decoration: underline;
+  font-weight: bold;
+  color: rgba(white, rgb(59, 158, 216), rgb(111, 197, 212), alpha);
+}
+.materias {
+  color: green;
+  background-color: yellow;
+  width: 50%;
+  text-shadow: 1px 1px 0px rgb(9, 255, 0);
+  padding: 10%;
+  display: grid;
+  display: flex;
+}
+
+.imagen {
+    height: 100px;
+    width: 150px;
+
+}
