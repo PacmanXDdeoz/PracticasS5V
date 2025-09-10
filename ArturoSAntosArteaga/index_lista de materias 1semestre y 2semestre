@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> matearias </title>
+</head>
+<body>
+<main>
+<section>
+<div>
+<h1> primer semestre </h1>
+<ol>
+<li> Taller de etica </li>
+<li> Fundamentos de invetigacion </li>
+<li> Calculo Diferencial </li>
+<li> Matematicas discretas </li>
+<li> Fundamentos de programacion </li>
+<li> Taller de Administracion </li>
+</div>
+<div>
+<h2> segundo semestre </h2>
+<ol>
+<li> Calculo iontegral </li>
+<li> Algebra lineal </li>
+<li> Contabilidad Financiera </li>
+<li> Quimica </li>
+<li> Probalidad y Estadistica </li>
+<li> Programacion Orientada a Objetos </li>
+</div>
+</section>
+</main>
+</body>
+</html>
+ 
+
