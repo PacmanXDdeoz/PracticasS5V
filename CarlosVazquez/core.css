@@ -1,3 +1,22 @@
+*{
+margin:0;
+padding:0;
+}
+
+header{
+background-color:blue;
+height:10vh;
+}
+
+main{
+height:flex;
+}
+
+footer{
+background-color:blue;
+height:10vh;
+}
+
 .fruit {
   color: blue;
   background-color: black;
@@ -13,6 +32,7 @@
   font-weight: bold;
   color: rgba(white, rgb(59, 158, 216), rgb(111, 197, 212), alpha);
 }
+
 .materias {
   color: green;
   background-color: yellow;
@@ -26,5 +46,4 @@
 .imagen {
     height: 100px;
     width: 150px;
-
 }
