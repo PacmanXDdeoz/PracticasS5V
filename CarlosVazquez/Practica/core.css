@@ -20,3 +20,11 @@ footer{
 background-color:green;
 height:10vh;
 }
+
+section{
+background-color:pink;
+height:30vh;
+width:30vh;
+justify-content:space-around;
+display:flex;
+}

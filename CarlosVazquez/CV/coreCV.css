@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.imagen{
+    width: 20vh;
+    height: 20vh;
+    justify-content: flex-start;
+}
+
+header{
+    display: flex;
+    justify-content: center;
+    background-color: aquamarine;
+}
+
+main{
+    display: flex;
+    justify-content: space-around;
+}
+
+.texto{
+    padding: 3vh;
+    font-size: medium;
+}
+
+h3{
+    font: bold;
+}
+
+.fecha{
+    font-style: italic;
+}
+
+.texto2{
+    flex-wrap: wrap;
+    font-size: small;
+}
+
+.boton{
+    background-color:rgb(132, 236, 222);
+    color: black;
+    text-decoration: none;
+    padding: 2vh;
+}
+div{
+    padding: 2vh;
+}
