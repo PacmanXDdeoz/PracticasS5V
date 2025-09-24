@@ -1,0 +1,5 @@
+Entrar a la plantilla
+Darle virtual 
+
+virtual env venv
+source venv/bin/activate

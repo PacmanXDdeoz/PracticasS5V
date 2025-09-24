@@ -1,6 +1,7 @@
 *{
     margin: 0;
     padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .imagen{
@@ -12,38 +13,78 @@
 header{
     display: flex;
     justify-content: center;
-    background-color: aquamarine;
+    align-items: center;
+    height: 10vh;
+    background-color: rgb(0, 119, 255);
 }
 
-main{
+.info{
     display: flex;
     justify-content: space-around;
+    padding: 20px;
 }
 
-.texto{
+.info2{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    border: 2px solid black;
+    box-sizing: border-box;
+    width: 490px;
     padding: 3vh;
-    font-size: medium;
+    border-radius: 10px;
+    background-color: rgba(18, 157, 238, 0.171);
 }
 
-h3{
-    font: bold;
+.titulo{
+    display: flex;
+    justify-content: center;
+    padding: 3px;
+}
+
+.celdas{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 3px;
+    margin: 5px;
+}
+
+.exp{
+    background-color: rgb(127, 194, 238);
+    display: flex;
+    width: 190vh;
+    justify-content: flex-start;
+    border-radius: 20px;
+    padding: 30px;
+    margin: 5px;
+}
+
+.font{
+    font-weight: bolder;
 }
 
 .fecha{
-    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
 }
 
-.texto2{
-    flex-wrap: wrap;
-    font-size: small;
+.link{
+    display: flex;
+    padding: 10px;
+    background-color: yellowgreen;
+    border-radius: 20px;
 }
 
-.boton{
-    background-color:rgb(132, 236, 222);
-    color: black;
-    text-decoration: none;
-    padding: 2vh;
-}
-div{
-    padding: 2vh;
+button{
+    background: none;
+    border: none;
+    background-color: transparent;
+    cursor: default;
+    outline: none;
+    box-shadow: none;
+    font-family: inherit;
+    font-size: inherit;
+    color: inherit;
+    padding: 0;
+    margin: 0;
 }
